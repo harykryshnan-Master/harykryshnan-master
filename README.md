@@ -49,18 +49,18 @@
 
 <h3 align="left" style="color: #00FF7F;">🔧 Languages and Tools:</h3>
 <p align="left" style="color: #FF00FF;">
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="40" height="40"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://azurecomcdn.azureedge.net/cvt-60d90921b46e05ac31c1dfcd88bc85d832e44eeadf52bcda0b09ae56c6020562/images/page/services/hero/logo-azure.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hashicorp/terraform-icon.svg" alt="terraform" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
   <a href="https://www.sonarqube.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/> </a>
   <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
-  <a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheus/prometheus-icon.svg" alt="prometheus" width="40" height="40"/> </a>
-  <a href="https://grafana.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+  <a href="https://www.prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheus/prometheus-icon.svg" alt="prometheus" width="40" height="40"/> </a>
+  <a href="https://www.grafana.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left" style="color: #00FF7F;">📫 How to reach me:</h3>
