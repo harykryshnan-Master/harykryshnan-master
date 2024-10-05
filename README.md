@@ -1,8 +1,8 @@
 <h1 align="center">🎉 Hi 👋, I'm Harikrishnan 🎉</h1>
-<h3 align="center">DevOps Engineer 🛠️ | AWS Certified ☁️ | Azure Certified 🌐</h3>
+<h3 align="center">DevOps Engineer 🛠️ | AWS Certified ☁️ | Azure Certified 🌐 | Terraform Certified 🌍</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=harykryshnan-master&label=🎯%20Profile%20views&color=f75c7e&style=flat" alt="harykryshnan-master" />
+  <img src="https://komarev.com/ghpvc/?username=harykryshnan-master&label=🎯%20Profile%20views&color=00FFAB&style=flat" alt="harykryshnan-master" />
 </p>
 
 <p align="center"> 
@@ -14,30 +14,36 @@
 ---
 
 🚀 **Always reaching for the stars**!  
-💡 I'm a **passionate DevOps Engineer** who loves building **scalable** and **reliable** cloud systems! Let's make tech fun and engaging!  
+💡 I'm a **passionate DevOps Engineer** certified in **AWS**, **Azure**, and **Terraform**, striving to build **scalable**, **reliable** cloud systems! 🌈 Let's make tech **fun** and **engaging**! 🎉
 
 ---
 
 ### 🌟 **Key Skills**:
 
 - ☁️ **Cloud Platforms**:  
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> **AWS**: EC2, S3, RDS, Lambda, CloudFormation  
-  - <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> **Azure**: Virtual Machines, App Services, Azure Functions, Azure DevOps
-- 🔄 **CI/CD Pipelines**: Jenkins, GitLab CI/CD, Azure DevOps Pipelines
-- 🐳 **Containerization**: Docker, Kubernetes
-- 💻 **Scripting**: Bash, Python, PowerShell
-- 🏗️ **Cloud Architecture & Design**
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> **AWS**: EC2, S3, RDS, Lambda, CloudFormation, ECS  
+  - <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> **Azure**: Virtual Machines, App Services, Azure Functions, Azure DevOps  
+  - <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> **Terraform**: Infrastructure as Code (IaC) mastery 🌍
+  
+- 🔄 **CI/CD Pipelines**: Jenkins, GitLab CI/CD, Azure DevOps Pipelines  
+- 🐳 **Containerization**: Docker, Kubernetes, ECS  
+- 🧠 **DevSecOps Tools**: Trivy, Snyk, OWASP ZAP, SonarQube, PatchWorks  
+- 🔧 **Automation Tools**: Ansible  
+- 🔥 **Monitoring and Logging**: ELK Stack (Elasticsearch, Logstash, Kibana), Grafana  
+- 💻 **Scripting**: Bash, Shell, Python, PowerShell  
+- 🔐 **Security**: OWASP, Trivy, Snyk  
+- 🏗️ **Cloud Architecture & Design**  
 - 🛠️ **Troubleshooting & Problem-Solving**
 
 ---
 
 ### 🎯 **Currently working on**:
-- **BTS** 💼 (*Building scalable, reliable cloud infrastructures*)
+- **BTS** 💼 (*Building scalable, reliable cloud infrastructures*) 🚀
 
 ### 🌱 **Currently learning**:
 - 🔐 **DevSecOps**
-- 🤖 **Automations** (*Automating everything!*)
-  
+- 🤖 **Automations** (*Automating everything!*) ⚙️
+
 ---
 
 ### 🎯 **Looking to collaborate on**:
@@ -47,7 +53,7 @@
 ---
 
 ### 🤝 **Seeking help with**:
-- 🐍 **Python automations** (*Always learning!*)
+- 🐍 **Python automations** (*Always learning!*) 💡
 
 ---
 
@@ -61,8 +67,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=harykryshnan-master&theme=onestar&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-- 🏅 **Achievement: YOLO** – 🚀 Taking bold actions, breaking the norm!
-- 🏅 **Achievement: Pull Shark** – 🌟 Quick and efficient at pull requests!
+- 🏅 **Achievement: YOLO** – 🚀 Taking bold actions, breaking the norm!  
+- 🏅 **Achievement: Pull Shark** – 🌟 Quick and efficient at pull requests!  
 - 🏅 **Achievement: Quickdraw** – ⚡ Speedy coder with fast reaction times!
 
 ---
@@ -93,4 +99,4 @@
 
 ---
 
-<p align="center">💥 **Let's build something amazing together!** 💥</p>
+<p align="center">💥 **Love working the night shift 🌙! Let's build something amazing together!** 💥</p>
