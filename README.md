@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #FF007F;">Hi 👋, I'm Harikrishnan </h1>
+<h1 align="center" style="color: #FF007F;">Hi 👋, I'm Harikrishnan a.k.a CloudChamp 🌈</h1>
 <h3 align="center" style="color: #007FFF;">A passionate DevOps Engineer from India ☁️</h3>
 
 <p align="center">
@@ -26,25 +26,18 @@
   <li>Troubleshooting and problem-solving</li>
 </ul>
 
-<h3 align="left" style="color: #00FF7F;">Looking for:</h3>
+<h3 align="left" style="color: #00FF7F;">🚀 Projects:</h3>
 <ul style="color: #FF00FF;">
-  <li>Opportunities to collaborate on exciting projects 🚀</li>
-  <li>Challenging roles that require technical depth and innovation 🧠</li>
-  <li>Mentorship and career growth 🌱</li>
+  <li><strong>Cloud Deployment Automation</strong>: Developed a CI/CD pipeline for automated deployment using Jenkins and AWS CloudFormation, reducing deployment time by 50%.</li>
+  <li><strong>Monitoring Solution with Grafana and Prometheus</strong>: Implemented a monitoring solution to visualize application performance and system health, improving response times to incidents.</li>
+  <li><strong>Containerized Application Deployment</strong>: Successfully migrated a legacy application to Docker and Kubernetes, achieving better resource utilization and scalability.</li>
 </ul>
 
-<h3 align="left" style="color: #00FF7F;">Open to:</h3>
+<h3 align="left" style="color: #00FF7F;">🌟 Achievements:</h3>
 <ul style="color: #FF00FF;">
-  <li>Job support and interview preparation 💼</li>
-  <li>Providing guidance and assistance to fellow DevOps engineers 🤝</li>
-  <li>Free or paid collaborations to learn and grow together 🤝</li>
-</ul>
-
-<h3 align="left" style="color: #FF007F;">🌟 Achievements:</h3>
-<ul style="color: #FF00FF;">
-  <li>Achievement: YOLO 🎉</li>
-  <li>Achievement: Pull Shark 🎉</li>
-  <li>Achievement: Quickdraw 🎉</li>
+  <li>Successfully led a team in implementing a cloud migration project for a major client, resulting in a 30% reduction in operational costs.</li>
+  <li>Recognized as 'Employee of the Month' for outstanding contributions to project efficiency and team collaboration.</li>
+  <li>Completed over 15 professional projects and more than 150 POC projects, showcasing versatility and innovation.</li>
 </ul>
 
 <h3 align="left" style="color: #00FF7F;">🔧 Languages and Tools:</h3>
@@ -74,3 +67,5 @@
 <p align="left" style="color: #FF00FF;">
   "The best way to predict the future is to invent it." – Alan Kay 💫
 </p>
+
+<h3 align="center" style="color: #007FFF;">Let’s connect and collaborate! 🤝</h3>
