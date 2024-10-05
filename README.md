@@ -37,6 +37,13 @@
 
 ---
 
+### 🎯 **Experience**:
+- **15+ Professional Projects** 💼
+- **50+ Small Projects** 💻
+- **150+ POC Projects** across **DevOps** & **DevSecOps** 🚀
+
+---
+
 ### 🎯 **Currently working on**:
 - **BTS** 💼 (*Building scalable, reliable cloud infrastructures*) 🚀
 
