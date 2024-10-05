@@ -60,6 +60,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=harykryshnan-master&theme=onestar&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
+- 🏅 **Achievement: YOLO** – 🚀 Taking bold actions, breaking the norm!
+- 🏅 **Achievement: Pull Shark** – 🌟 Quick and efficient at pull requests!
+- 🏅 **Achievement: Quickdraw** – ⚡ Speedy coder with fast reaction times!
+
 ---
 
 ### 💡 **Tech Motivation**:
