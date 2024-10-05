@@ -1,4 +1,5 @@
-<h1 align="center" style="color: #FF007F;">Hi 👋, I'm Harikrishnan a.k.a CloudChamp 🌈</h1>
+<h1 align="center" style="color: #FF007F;">Hi 👋, I'm Harikrishnan ![Dance GifGIF](https://github.com/user-attachments/assets/e3b7df6f-18e2-4097-9a91-a845ca5cfb33)
+</h1>
 <h3 align="center" style="color: #007FFF;">A passionate DevOps Engineer from India ☁️</h3>
 
 <p align="center">
@@ -17,8 +18,8 @@
 
 <h3 align="left" style="color: #00FF7F;">🌟 Key Skills:</h3>
 <ul style="color: #FF00FF;">
-  <li>AWS Services (EC2, S3, RDS, Lambda, CloudFormation)</li>
-  <li>Azure Services (Virtual Machines, App Services, Azure Functions, Azure DevOps)</li>
+  <li>AWS Services (EC2, S3, RDS, Lambda, CloudFormation) ☁️ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/></li>
+  <li>Azure Services (Virtual Machines, App Services, Azure Functions, Azure DevOps) 🌩️ <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="20" height="20"/></li>
   <li>CI/CD pipelines (Jenkins, GitLab CI/CD, Azure DevOps Pipelines)</li>
   <li>Containerization (Docker, Kubernetes, ECS)</li>
   <li>Scripting (Bash, Python, PowerShell)</li>
