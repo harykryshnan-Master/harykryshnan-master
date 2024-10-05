@@ -1,5 +1,4 @@
-<h1 align="center" style="color: #FF007F;">Hi 👋, I'm Harikrishnan ![Dance GifGIF](https://github.com/user-attachments/assets/e3b7df6f-18e2-4097-9a91-a845ca5cfb33)
-</h1>
+<h1 align="center" style="color: #FF007F;">Hi 👋, I'm Harikrishnan ![Dance GifGIF](https://github.com/user-attachments/assets/e3b7df6f-18e2-4097-9a91-a845ca5cfb33)</h1>
 <h3 align="center" style="color: #007FFF;">A passionate DevOps Engineer from India ☁️</h3>
 
 <p align="center">
@@ -70,3 +69,7 @@
 </p>
 
 <h3 align="center" style="color: #007FFF;">Let’s connect and collaborate! 🤝</h3>
+
+<p align="center">
+  ![Dance GifGIF](https://github.com/user-attachments/assets/e3b7df6f-18e2-4097-9a91-a845ca5cfb33)
+</p>
