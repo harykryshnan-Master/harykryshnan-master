@@ -1,61 +1,91 @@
-<h1 align="center">Hi 👋, I'm Harikrishnan</h1>
+<h1 align="center">🎉 Hi 👋, I'm Harikrishnan 🎉</h1>
 <h3 align="center">DevOps Engineer 🛠️ | AWS Certified ☁️ | Azure Certified 🌐</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=harykryshnan-master&label=Profile%20views&color=0e75b6&style=flat" alt="harykryshnan-master" />
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=harykryshnan-master&label=🎯%20Profile%20views&color=f75c7e&style=flat" alt="harykryshnan-master" />
 </p>
 
-<p align="left">
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harykryshnan-master" alt="harykryshnan-master" />
+    <img src="https://github-profile-trophy.vercel.app/?username=harykryshnan-master&theme=radical&no-bg=true&no-frame=true" alt="harykryshnan-master" />
   </a>
 </p>
 
-🚀 Eager to learn new tools and technologies! 💡  
-💪 Experienced DevOps Engineer passionate about building scalable, reliable, and efficient cloud-based systems.
+---
 
-### 🌟 Key Skills:
-- **Cloud Platforms**:  
-  - AWS (EC2, S3, RDS, Lambda, CloudFormation)  
-  - Azure (Virtual Machines, App Services, Azure Functions, Azure DevOps)
-- **CI/CD Pipelines**: Jenkins, GitLab CI/CD, Azure DevOps Pipelines
-- **Containerization**: Docker, Kubernetes
-- **Scripting**: Bash, Python, PowerShell
-- **Cloud Architecture & Design**
-- **Troubleshooting & Problem-Solving**
+🚀 **Always reaching for the stars**!  
+💡 I'm a **passionate DevOps Engineer** who loves building **scalable** and **reliable** cloud systems! Let's make tech fun and engaging!  
 
-### 🔭 I’m currently working on:
-- **BTS** (Building scalable, reliable cloud infrastructures)
+---
 
-### 🌱 I’m currently learning:
-- **Advanced DevOps & DevSecOps**
-- **Automation Tools**
+### 🌟 **Key Skills**:
+- ☁️ **Cloud Platforms**:  
+  - ⚡ **AWS**: EC2, S3, RDS, Lambda, CloudFormation  
+  - 🚀 **Azure**: Virtual Machines, App Services, Azure Functions, Azure DevOps
+- 🔄 **CI/CD Pipelines**: Jenkins, GitLab CI/CD, Azure DevOps Pipelines
+- 🐳 **Containerization**: Docker, Kubernetes
+- 💻 **Scripting**: Bash, Python, PowerShell
+- 🏗️ **Cloud Architecture & Design**
+- 🛠️ **Troubleshooting & Problem-Solving**
 
-### 👯 I’m looking to collaborate on:
-- **DevOps & DevSecOps Projects**
-- **Challenging roles that require technical depth and innovation**
+---
 
-### 🤝 I’m looking for help with:
-- **Python Automations**
+### 🎯 **Currently working on**:
+- **BTS** 💼 (*Building scalable, reliable cloud infrastructures*)
 
-### 📫 How to reach me:
-- **Email**: harykryshnan27@gmail.com
+### 🌱 **Currently learning**:
+- 🔐 **DevSecOps**
+- 🤖 **Automations** (*Automating everything!*)
+  
+---
 
-### GitHub Achievements:
-<p align="left"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=harykryshnan-master&theme=dracula" alt="GitHub Trophies" />
+### 🎯 **Looking to collaborate on**:
+- ⚙️ **DevOps & DevSecOps projects**
+- 🧠 **Innovative roles that push the boundaries of tech**
+
+---
+
+### 🤝 **Seeking help with**:
+- 🐍 **Python automations** (*Always learning!*)
+
+---
+
+### 📬 **Reach out to me**:
+- 📧 **Email**: harykryshnan27@gmail.com
+
+---
+
+### 🏆 **GitHub Achievements**:
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=harykryshnan-master&theme=onestar&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
-### Random Tech Motivation Quote:
-> "Technology is best when it brings people together." — **Matt Mullenweg**
+---
 
-### Open to:
-- **Job support and interview preparation 💼**
-- **Providing mentorship and guidance to fellow DevOps engineers 🤝**
-- **Collaborations (free or paid) to learn and grow together**
+### 💡 **Tech Motivation**:
+> **"The best way to predict the future is to create it."** — **Alan Kay**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harykryshnan-master&show_icons=true&locale=en&layout=compact" alt="harykryshnan-master" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harykryshnan-master&show_icons=true&locale=en" alt="harykryshnan-master" /></p>
+### 🚀 **Open to**:
+- 💼 **Job support and interview prep** (Let's land that dream job! 🎯)
+- 👨‍🏫 **Mentorship & Guidance** for fellow **DevOps engineers**
+- 💡 **Collaborations** (*free or paid*) to **grow & learn together**!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harykryshnan-master&" alt="harykryshnan-master" /></p>
+---
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harykryshnan-master&show_icons=true&locale=en&layout=compact&theme=radical" alt="harykryshnan-master" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harykryshnan-master&show_icons=true&locale=en&theme=highcontrast" alt="harykryshnan-master" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harykryshnan-master&theme=tokyonight" alt="harykryshnan-master" />
+</p>
+
+---
+
+<p align="center">💥 **Let's build something amazing together!** 💥</p>
