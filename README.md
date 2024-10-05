@@ -2,10 +2,6 @@
 <h3 align="center">DevOps Engineer 🛠️ | AWS Certified ☁️ | Azure Certified 🌐 | Terraform Certified 🌍</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=harykryshnan-master&label=🎯%20Profile%20views&color=00FFAB&style=flat" alt="harykryshnan-master" />
-</p>
-
-<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=harykryshnan-master&theme=radical&no-bg=true&no-frame=true" alt="harykryshnan-master" />
   </a>
