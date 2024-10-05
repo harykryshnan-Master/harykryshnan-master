@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #FF007F;">🌟 Hi 👋, I'm Harikrishnan a.k.a CloudChamp 🌈</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #FF007F;">🌟 Hi 👋, I'm Harikrishnan </h1>
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #007FFF;">A passionate DevOps Engineer from India ☁️</h3>
 
 <p align="center">
@@ -49,18 +49,42 @@
 
 <h3 align="left" style="font-family: 'Arial', sans-serif; color: #00FF7F;">🔧 Languages and Tools:</h3>
 <p align="left" style="color: #FF00FF; font-family: 'Arial', sans-serif;">
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="60" height="60" style="border-radius: 10px;"/> </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://azurecomcdn.azureedge.net/cvt-60d90921b46e05ac31c1dfcd88bc85d832e44eeadf52bcda0b09ae56c6020562/images/page/services/hero/logo-azure.svg" alt="azure" width="60" height="60" style="border-radius: 10px;"/> </a>
-  <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hashicorp/terraform-icon.svg" alt="terraform" width="60" height="60" style="border-radius: 10px;"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="60" style="border-radius: 10px;"/> </a>
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60" style="border-radius: 10px;"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" style="border-radius: 10px;"/> </a>
-  <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="60" height="60" style="border-radius: 10px;"/> </a>
-  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60" style="border-radius: 10px;"/> </a>
-  <a href="https://www.sonarqube.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="60" height="60" style="border-radius: 10px;"/> </a>
-  <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="60" height="60" style="border-radius: 10px;"/> </a>
-  <a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheus/prometheus-icon.svg" alt="prometheus" width="60" height="60" style="border-radius: 10px;"/> </a>
-  <a href="https://grafana.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="60" height="60" style="border-radius: 10px;"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="60" height="60" style="border-radius: 10px;"/> 
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png" alt="azure" width="60" height="60" style="border-radius: 10px;"/> 
+  </a>
+  <a href="https://www.terraform.io/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/hashicorp/terraform-icon.svg" alt="terraform" width="60" height="60" style="border-radius: 10px;"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="60" height="60" style="border-radius: 10px;"/> 
+  </a>
+  <a href="https://kubernetes.io" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60" style="border-radius: 10px;"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" style="border-radius: 10px;"/> 
+  </a>
+  <a href="https://www.elastic.co" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="60" height="60" style="border-radius: 10px;"/> 
+  </a>
+  <a href="https://www.jenkins.io" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60" style="border-radius: 10px;"/> 
+  </a>
+  <a href="https://www.sonarqube.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="60" height="60" style="border-radius: 10px;"/> 
+  </a>
+  <a href="https://www.ansible.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="60" height="60" style="border-radius: 10px;"/> 
+  </a>
+  <a href="https://prometheus.io/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/prometheus/prometheus-icon.svg" alt="prometheus" width="60" height="60" style="border-radius: 10px;"/> 
+  </a>
+  <a href="https://grafana.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="60" height="60" style="border-radius: 10px;"/> 
+  </a>
 </p>
 
 <h3 align="left" style="font-family: 'Arial', sans-serif; color: #00FF7F;">📫 How to reach me:</h3>
