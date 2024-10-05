@@ -1,105 +1,76 @@
-<h1 align="center">🎉 Hi 👋, I'm Harikrishnan 🎉</h1>
-<h3 align="center">DevOps Engineer 🛠️ | AWS Certified ☁️ | Azure Certified 🌐 | Terraform Certified 🌍</h3>
+<h1 align="center" style="color: #FF007F;">Hi 👋, I'm Harikrishnan a.k.a CloudChamp 🌈</h1>
+<h3 align="center" style="color: #007FFF;">A passionate DevOps Engineer from India ☁️</h3>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harykryshnan-master&theme=radical&no-bg=true&no-frame=true" alt="harykryshnan-master" />
+<p align="center">
+  <a href="https://github.com/harykryshnan-master">
+    <img src="https://img.shields.io/badge/DevOps%20Engineer-%F0%9F%9B%A0%EF%B8%8F-FF007F" />
+    <img src="https://img.shields.io/badge/AWS%20Certified-%F0%9F%98%8E-FF007F" />
+    <img src="https://img.shields.io/badge/Azure%20Certified-%F0%9F%94%96-FF007F" />
+    <img src="https://img.shields.io/badge/Terraform%20Certified-%F0%9F%9A%80-FF007F" />
   </a>
 </p>
 
----
-
-🚀 **Always reaching for the stars**!  
-💡 I'm a **passionate DevOps Engineer** certified in **AWS**, **Azure**, and **Terraform**, striving to build **scalable**, **reliable** cloud systems! 🌈 Let's make tech **fun** and **engaging**! 🎉
-
----
-
-### 🌟 **Key Skills**:
-
-- ☁️ **Cloud Platforms**:  
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> **AWS**: EC2, S3, RDS, Lambda, CloudFormation, ECS  
-  - <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> **Azure**: Virtual Machines, App Services, Azure Functions, Azure DevOps  
-  - <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> **Terraform**: Infrastructure as Code (IaC) mastery 🌍
-  
-- 🔄 **CI/CD Pipelines**: Jenkins, GitLab CI/CD, Azure DevOps Pipelines  
-- 🐳 **Containerization**: Docker, Kubernetes, ECS  
-- 🧠 **DevSecOps Tools**: Trivy, Snyk, OWASP ZAP, SonarQube, PatchWorks  
-- 🔧 **Automation Tools**: Ansible  
-- 🔥 **Monitoring and Logging**: ELK Stack (Elasticsearch, Logstash, Kibana), Grafana  
-- 💻 **Scripting**: Bash, Shell, Python, PowerShell  
-- 🔐 **Security**: OWASP, Trivy, Snyk  
-- 🏗️ **Cloud Architecture & Design**  
-- 🛠️ **Troubleshooting & Problem-Solving**
-
----
-
-### 🎯 **Experience**:
-- **15+ Professional Projects** 💼
-- **50+ Small Projects** 💻
-- **150+ POC Projects** across **DevOps** & **DevSecOps** 🚀
-
----
-
-### 🎯 **Currently working on**:
-- **BTS** 💼 (*Building scalable, reliable cloud infrastructures*) 🚀
-
-### 🌱 **Currently learning**:
-- 🔐 **DevSecOps**
-- 🤖 **Automations** (*Automating everything!*) ⚙️
-
----
-
-### 🎯 **Looking to collaborate on**:
-- ⚙️ **DevOps & DevSecOps projects**
-- 🧠 **Innovative roles that push the boundaries of tech**
-
----
-
-### 🤝 **Seeking help with**:
-- 🐍 **Python automations** (*Always learning!*) 💡
-
----
-
-### 📬 **Reach out to me**:
-- 📧 **Email**: harykryshnan27@gmail.com
-
----
-
-### 🏆 **GitHub Achievements**:
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=harykryshnan-master&theme=onestar&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+<p align="center" style="font-size: 20px;">
+  🚀 Eager to learn new tools and technologies! 💡 <br>
+  Experienced DevOps Engineer passionate about building scalable, reliable, and efficient cloud-based systems. 💪 
 </p>
 
-- 🏅 **Achievement: YOLO** – 🚀 Taking bold actions, breaking the norm!  
-- 🏅 **Achievement: Pull Shark** – 🌟 Quick and efficient at pull requests!  
-- 🏅 **Achievement: Quickdraw** – ⚡ Speedy coder with fast reaction times!
+<h3 align="left" style="color: #00FF7F;">🌟 Key Skills:</h3>
+<ul style="color: #FF00FF;">
+  <li>AWS Services (EC2, S3, RDS, Lambda, CloudFormation)</li>
+  <li>Azure Services (Virtual Machines, App Services, Azure Functions, Azure DevOps)</li>
+  <li>CI/CD pipelines (Jenkins, GitLab CI/CD, Azure DevOps Pipelines)</li>
+  <li>Containerization (Docker, Kubernetes, ECS)</li>
+  <li>Scripting (Bash, Python, PowerShell)</li>
+  <li>Cloud architecture and design</li>
+  <li>Troubleshooting and problem-solving</li>
+</ul>
 
----
+<h3 align="left" style="color: #00FF7F;">Looking for:</h3>
+<ul style="color: #FF00FF;">
+  <li>Opportunities to collaborate on exciting projects 🚀</li>
+  <li>Challenging roles that require technical depth and innovation 🧠</li>
+  <li>Mentorship and career growth 🌱</li>
+</ul>
 
-### 💡 **Tech Motivation**:
-> **"The best way to predict the future is to create it."** — **Alan Kay**
+<h3 align="left" style="color: #00FF7F;">Open to:</h3>
+<ul style="color: #FF00FF;">
+  <li>Job support and interview preparation 💼</li>
+  <li>Providing guidance and assistance to fellow DevOps engineers 🤝</li>
+  <li>Free or paid collaborations to learn and grow together 🤝</li>
+</ul>
 
----
+<h3 align="left" style="color: #FF007F;">🌟 Achievements:</h3>
+<ul style="color: #FF00FF;">
+  <li>Achievement: YOLO 🎉</li>
+  <li>Achievement: Pull Shark 🎉</li>
+  <li>Achievement: Quickdraw 🎉</li>
+</ul>
 
-### 🚀 **Open to**:
-- 💼 **Job support and interview prep** (Let's land that dream job! 🎯)
-- 👨‍🏫 **Mentorship & Guidance** for fellow **DevOps engineers**
-- 💡 **Collaborations** (*free or paid*) to **grow & learn together**!
-
----
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harykryshnan-master&show_icons=true&locale=en&layout=compact&theme=radical" alt="harykryshnan-master" />
+<h3 align="left" style="color: #00FF7F;">🔧 Languages and Tools:</h3>
+<p align="left" style="color: #FF00FF;">
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hashicorp/terraform-icon.svg" alt="terraform" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://www.sonarqube.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/> </a>
+  <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
+  <a href="https://www.prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheus/prometheus-icon.svg" alt="prometheus" width="40" height="40"/> </a>
+  <a href="https://www.grafana.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harykryshnan-master&show_icons=true&locale=en&theme=highcontrast" alt="harykryshnan-master" />
+<h3 align="left" style="color: #00FF7F;">📫 How to reach me:</h3>
+<p align="left" style="color: #FF00FF;">
+  💬 Ask me about DevOps <br>
+  📫 Email: <a href="mailto:harykryshnan27@gmail.com" style="color: #FF007F;">harykryshnan27@gmail.com</a> <br>
+  ⚡ Fun fact: I love working at nighttime! 🌜
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harykryshnan-master&theme=tokyonight" alt="harykryshnan-master" />
+<h3 align="left" style="color: #00FF7F;">💡 Random Quote:</h3>
+<p align="left" style="color: #FF00FF;">
+  "The best way to predict the future is to invent it." – Alan Kay 💫
 </p>
-
----
-
-<p align="center">💥 **Love working the night shift 🌙! Let's build something amazing together!** 💥</p>
